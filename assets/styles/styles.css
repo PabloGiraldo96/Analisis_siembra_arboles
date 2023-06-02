@@ -1,0 +1,70 @@
+.banner {
+	background-image: url(../img/santafe.jpg);
+	background-position: top center;
+	background-size: cover;
+	padding: 23%;
+	background-attachment: fixed;
+}
+
+.banner2 {
+	background-image: url(../img/santafeDosjpg.jpg);
+	background-position: top center;
+	background-size: cover;
+	padding: 23%;
+	background-attachment: fixed;
+}
+
+.bannerYarumal {
+	background-image: url(../img/yarumal.jpg);
+	background-position: top center;
+	background-size: cover;
+	padding: 23%;
+	background-attachment: fixed;
+}
+
+.bannerCaucasia {
+	background-image: url(../img/caucasia.jpg);
+	background-position: top center;
+	background-size: cover;
+	padding: 23%;
+	background-attachment: fixed;
+}
+
+.bannerYarumal2 {
+	background-image: url(../img/yarumal2.jpg);
+	background-position: top center;
+	background-size: cover;
+	padding: 23%;
+	background-attachment: fixed;
+}
+
+.bannerCaucasia2 {
+	background-image: url(../img/caucasia2.jpg);
+	background-position: top center;
+	background-size: cover;
+	padding: 23%;
+	background-attachment: fixed;
+}
+
+.bannerBelmira {
+	background-image: url(../img/Belmira.JPG);
+	background-position: top center;
+	background-size: cover;
+	padding: 23%;
+	background-attachment: fixed;
+}
+
+.bannerBelmira2 {
+	background-image: url(../img/Belmira2.JPG);
+	background-position: top center;
+	background-size: cover;
+	padding: 23%;
+	background-attachment: fixed;
+}
+
+.menu {
+background-color: #063535;
+opacity: 0.8;
+
+}
+
