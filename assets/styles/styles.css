@@ -1,70 +1,102 @@
+html{
+scroll-behavior: smooth;
+}
 .banner {
 	background-image: url(../img/santafe.jpg);
 	background-position: top center;
 	background-size: cover;
-	padding: 23%;
+	padding: 14%;
 	background-attachment: fixed;
+	position: relative;
 }
-
 .banner2 {
 	background-image: url(../img/santafeDosjpg.jpg);
 	background-position: top center;
 	background-size: cover;
-	padding: 23%;
+	padding: 18%;
 	background-attachment: fixed;
 }
-
 .bannerYarumal {
 	background-image: url(../img/yarumal.jpg);
 	background-position: top center;
 	background-size: cover;
-	padding: 23%;
+	padding: 18%;
 	background-attachment: fixed;
 }
-
 .bannerCaucasia {
 	background-image: url(../img/caucasia.jpg);
 	background-position: top center;
 	background-size: cover;
-	padding: 23%;
+	padding: 18%;
 	background-attachment: fixed;
 }
-
 .bannerYarumal2 {
 	background-image: url(../img/yarumal2.jpg);
 	background-position: top center;
 	background-size: cover;
-	padding: 23%;
+	padding: 18%;
 	background-attachment: fixed;
 }
-
 .bannerCaucasia2 {
 	background-image: url(../img/caucasia2.jpg);
 	background-position: top center;
 	background-size: cover;
-	padding: 23%;
+	padding: 18%;
 	background-attachment: fixed;
 }
-
 .bannerBelmira {
 	background-image: url(../img/Belmira.JPG);
 	background-position: top center;
 	background-size: cover;
-	padding: 23%;
+	padding: 18%;
 	background-attachment: fixed;
 }
-
 .bannerBelmira2 {
 	background-image: url(../img/Belmira2.JPG);
 	background-position: top center;
 	background-size: cover;
-	padding: 23%;
+	padding: 18%;
 	background-attachment: fixed;
+}
+.bannerBello {
+	background-image: url(../img/bello.jpg);
+	background-position: top center;
+	background-size: cover;
+	padding: 18%;
+	background-attachment: fixed;
+}
+.bannerBello2 {
+	background-image: url(../img/bello2.jpg);
+	background-position: top center;
+	background-size: cover;
+	padding: 18%;
+	background-attachment: fixed;
+}
+.bannerCaramanta {
+	background-image: url(../img/caramanta.jpg);
+	background-position: top center;
+	background-size: cover;
+	padding: 18%;
+	background-attachment: fixed;
+}
+.bannerCaramanta2 {
+	background-image: url(../img/caramanta2.jpg);
+	background-position: top center;
+	background-size: cover;
+	padding: 18%;
+	background-attachment: fixed;
+}
+
+.img{
+width:60% ;
+height:358px ;
+position: relative;
+left: 580px;
+top: -370px;
 }
 
 .menu {
 background-color: #063535;
-opacity: 0.8;
 
 }
 
