@@ -96,7 +96,29 @@ top: -370px;
 }
 
 .menu {
-background-color: #063535;
+background-color:  rgb(3, 46, 10);
 
 }
 
+body{
+display: flexbox;
+}
+
+footer{
+background-color: rgb(3, 46, 10);
+color: rgb(255, 255, 255);
+}
+
+#map {
+margin-top: 25px;
+margin-bottom: 25px;
+position: relative;
+left: 600px;
+height: 400px;
+width: 680px;
+}
+
+.btn{
+margin: 2%;
+width: fit-content;
+}

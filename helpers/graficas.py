@@ -9,7 +9,7 @@ def graficar_veredas(dataFrame, columnX, columnY, nombre):
 	plt.bar(cuenta_arboles.index, cuenta_arboles, color = colores)
 	plt.xlabel("Veredas")
 	plt.ylabel("Arboles")
-	plt.title("Siembras mayores a 250")
+	plt.title("Siembras mayores a 100, Caramanta")
 	plt.xticks(rotation=45, ha='right')	
 
 	# Guardamos la grafica 
